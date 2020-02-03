@@ -1,7 +1,7 @@
----?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1580736700/Polin%20Group/Stratos_XP_PIOGGIA_BRONZO.jpg&size=auto 100%
----?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1580736698/Polin%20Group/Stratos_XP_DUNA_BLU.jpg&size=auto 100%
----?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1580736697/Polin%20Group/Stratos_XP_PERLA_ORO.jpg&size=auto 100%
----?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1580736697/Polin%20Group/Stratos_XP_RETE_BLU.jpg&size=auto 100%
----?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1580736696/Polin%20Group/Stratos_XP_DOTS_ORO.jpg&size=auto 100%
----?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1580736695/Polin%20Group/Stratos_XP_PALLINATO_BRONZO.jp&size=auto 100%
----?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1580736695/Polin%20Group/Stratos_XP_PALLINATO_BLU.jpg&size=auto 100%
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1580736700/Polin%20Group/Stratos_XP_PIOGGIA_BRONZO.jpg&size=auto 100%&color=#ffffff
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1580736698/Polin%20Group/Stratos_XP_DUNA_BLU.jpg&size=auto 100%&color=#ffffff
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1580736697/Polin%20Group/Stratos_XP_PERLA_ORO.jpg&size=auto 100%&color=#ffffff
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1580736697/Polin%20Group/Stratos_XP_RETE_BLU.jpg&size=auto 100%&color=#ffffff
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1580736696/Polin%20Group/Stratos_XP_DOTS_ORO.jpg&size=auto 100%&color=#ffffff
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1580736695/Polin%20Group/Stratos_XP_PALLINATO_BRONZO.jp&size=auto 100%&color=#ffffff
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1580736695/Polin%20Group/Stratos_XP_PALLINATO_BLU.jpg&size=auto 100%&color=#ffffff
